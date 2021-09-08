@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" viewBox="0 0 150 250" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Office chair</title>
+<defs>
+<linearGradient id="a">
+<stop stop-color="#7a7a7a" offset="0"/>
+<stop stop-color="#eae6e6" offset="1"/>
+</linearGradient>
+<linearGradient id="g" x1="293.36" x2="298.13" y1="433.08" y2="432.39" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="f" x1="272.28" x2="321.06" y1="375.88" y2="375.88" gradientUnits="userSpaceOnUse">
+<stop stop-color="#b8b5b5" offset="0"/>
+<stop stop-color="#656565" offset="1"/>
+</linearGradient>
+<linearGradient id="e" x1="304.02" x2="311.78" y1="457.72" y2="438.56" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="d" x1="279.38" x2="298.75" y1="456.75" y2="443.31" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="c" x1="303.17" x2="307.26" y1="451.04" y2="447.34" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="b" x1="296.9" x2="296.9" y1="412.39" y2="421.34" gradientTransform="translate(0,2)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#b3b3b3" offset="0"/>
+<stop stop-color="#5f5f5f" offset=".5612"/>
+<stop stop-color="#0c0c0c" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="matrix(2.1711 0 0 2.1711 -571.53 -770.17)" fill-rule="evenodd">
+<path d="m297.22 390.72c-0.83182 0.0956-2.1754-0.2814-2.4688 0.8125-0.52667 2.2018-0.2367 4.4767-0.24638 6.714 0.10757 4.8007 0.0851 9.6034 0.24825 14.403 0.12863 4.6753 0.247 9.3524 0.13177 14.029-0.018 3.3985-0.16659 6.7954-0.21909 10.192 0.0447 0.87257 0.0945 1.6805 0.47219 2.4532 0.69419 0.50631 1.7588 0.23419 2.6036 0.25523 0.81153 0.19351 1.2874-0.59998 1.2585-1.3214 0.29899-1.3907 0.053-2.8148 0.0573-4.2211-0.19869-4.7071-0.27597-9.4186-0.22221-14.13 0.0274-3.3331 0.12212-6.6659 0.21348-9.9977 0.26099-4.2521 0.20223-8.5143 0.28363-12.772-0.01-1.2294 0.0803-2.4673 0.0113-3.6918-0.14138-0.8675 0.0132-1.9132-0.74855-2.5389-0.39889-0.29301-0.91485-0.21975-1.375-0.1875z" fill="url(#g)" stroke="#000" stroke-width="2"/>
+<path d="m279.66 356.42 35.183-0.23159c4.0034 0.46319 5.2207 9.7862 5.2207 11.011v16.15c0 1.2243-4.9856 12.21-6.2099 12.21-11.338 1.6212-22.908 1.6212-34.362 0-2.6139-1.6212-6.2099-10.986-6.2099-12.21l0.46319-17.54c0-1.2243 2.6068-9.621 5.9154-9.3894z" fill="url(#f)" stroke="#000" stroke-width="2"/>
+<path d="m297.84 439.56c-18.025 0-32.656 5.0498-32.656 11.25 0 2.0861 1.6781 4.013 4.5625 5.6875-0.41748-0.71607-0.625-1.4569-0.625-2.2188 0-5.8167 12.806-10.562 28.594-10.562s28.594 4.7458 28.594 10.562c0 0.83942-0.27711 1.6546-0.78125 2.4375 3.1196-1.7215 4.9375-3.7297 4.9375-5.9062 0-6.2002-14.6-11.25-32.625-11.25z" fill="url(#e)" stroke="#000" stroke-width="2"/>
+<path d="m271.89 458.79c0 2.3023-1.7108 4.1687-3.8213 4.1687-2.1104 0-3.8213-1.8664-3.8213-4.1687s1.7108-4.1687 3.8213-4.1687c2.1104 0 3.8213 1.8664 3.8213 4.1687z" fill="#4d4d4d" stroke="#000" stroke-width="2"/>
+<path transform="translate(58.246 5.0389e-6)" d="m271.89 458.79c0 2.3023-1.7108 4.1687-3.8213 4.1687-2.1104 0-3.8213-1.8664-3.8213-4.1687s1.7108-4.1687 3.8213-4.1687c2.1104 0 3.8213 1.8664 3.8213 4.1687z" fill="#4d4d4d" stroke="#000" stroke-width="2"/>
+<path d="m294.97 439.8c-15.748 12.969-14.359 15.748-14.359 15.748s-0.92638 5.0951 0.92637 3.4739 3.0107-2.7791 3.4739-3.7055c0.46319-0.92637 9.0322-10.885 10.422-11.348 1.3896-0.46319 1.8528-4.1687-0.46319-4.1687z" fill="url(#d)" stroke="#000" stroke-width="2"/>
+<path transform="translate(1.3052 4)" d="m283.7 460.29c0 2.4942-0.77766 4.5161-1.737 4.5161-0.95929 0-1.737-2.0219-1.737-4.5161s0.77766-4.5161 1.737-4.5161c0.9593 0 1.737 2.0219 1.737 4.5161z" fill="#4d4d4d" stroke="#000" stroke-width="2"/>
+<path transform="translate(-.89494 3.8842)" d="m283.7 460.29c0 2.4942-0.77766 4.5161-1.737 4.5161-0.95929 0-1.737-2.0219-1.737-4.5161s0.77766-4.5161 1.737-4.5161c0.9593 0 1.737 2.0219 1.737 4.5161z" fill="#4d4d4d" stroke="#000" stroke-width="2"/>
+<path d="m299.08 439.88c15.748 12.969 14.359 15.748 14.359 15.748s0.92638 5.0951-0.92637 3.4739-3.0107-2.7791-3.4739-3.7055c-0.46319-0.92637-9.0322-10.885-10.422-11.348-1.3896-0.46319-1.8528-4.1687 0.46319-4.1687z" fill="url(#c)" stroke="#000" stroke-width="2"/>
+<path transform="translate(31.007 4.0843)" d="m283.7 460.29c0 2.4942-0.77766 4.5161-1.737 4.5161-0.95929 0-1.737-2.0219-1.737-4.5161s0.77766-4.5161 1.737-4.5161c0.9593 0 1.737 2.0219 1.737 4.5161z" fill="#4d4d4d" stroke="#000" stroke-width="2"/>
+<path transform="translate(28.807 3.9685)" d="m283.7 460.29c0 2.4942-0.77766 4.5161-1.737 4.5161-0.95929 0-1.737-2.0219-1.737-4.5161s0.77766-4.5161 1.737-4.5161c0.9593 0 1.737 2.0219 1.737 4.5161z" fill="#4d4d4d" stroke="#000" stroke-width="2"/>
+<rect x="294.89" y="449.83" width="3.7954" height="6.8061" rx="1.8977" ry="1.5881" fill="#4d4d4d" stroke="#000" stroke-width="2.1417"/>
+<rect x="295.16" y="443.38" width="3.2583" height="6.9638" rx="1.2004" ry="1.6809" fill="#808080" stroke="#000" stroke-width="1.7524"/>
+<path d="m272.75 411.69 23.922 2 24.385-2c0.52229 0 2.9428 1.6388 2.9428 3.6743l-2 3.3047c-2.5475 2.0356-4.4205 3.6743-4.9428 3.6743h-40.307c-0.5223 0-3.09-1.6388-4.9428-3.6743l-2-3.3047c0-2.0356 2.4205-3.6743 2.9428-3.6743z" fill="url(#b)" stroke="#000" stroke-width="2"/>
+<path d="m291.58 422.89c-6.253 2.7791-6.7162 4.4003-8.569 3.4739-1.8528-0.92638-9.0322 0.92637-2.7791 1.3896 6.253 0.46319 7.1794-0.92638 7.1794-0.92638l6.9478-3.7055-2.7791-0.2316z" fill="#333" stroke="#000" stroke-width="1px"/>
+<path d="m289.72 360.82c-8.3374-0.46319-10.277 1.8078-10.885 3.2423-2.4008 5.6695-0.46319 15.285-0.46319 17.37 0 2.0844-0.69478 6.9478 3.0107 9.2638 1.4298 0.89359 8.569 1.3896 9.0322 0.46319 0.46319-0.92637-0.69478-9.9585-1.3896-13.896-0.69478-3.9371 1.3896-16.906 0.69478-16.443z" fill="#e6e6e6"/>
+<path d="m311.44 357.18c-2.3654 0.42087-4.7948-0.0526-7.1533 0.28642-2.9106-0.26068-4.9082 0.44525-2.8222 0.56063 4.9595 0.76662 12.3 0.0754 14.445 5.5792 1.6508 4.9216 1.8182 12.748 2.0642 17.92-1.6233 4.676-1.7288 7.6166-5.2793 11.426-1.8565 0.74977-5.894 1.8078-7.7827 2.3478 9.1709-0.74218 8.8524 0.063 11.26-5.4226 1.9034-3.6922 2.9178-6.2791 2.8339-8.082-0.0929-3.6939-0.14257-11.12-0.15671-14.817-0.11087-3.2538-0.79349-6.8173-3.229-9.1687-1.1503-0.98176-2.807-0.48632-4.1799-0.62945z" fill="#b3b3b3"/>
+<path d="m312.11 413.7c-14.17 1.2071-15.155 1.6636-27.674 0.20982-10.86-0.94139-11.89-1.1486-2.3386 1.431 13.422 1.4334 15.773 1.5224 40.428-0.0919-0.33308-4.0401-8.0457-1.66-10.415-1.549z" fill="#ececec"/>
+</g>
+<metadata>
+<rdf:RDF>
+<cc:Work>
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+<dc:publisher>
+<cc:Agent rdf:about="http://openclipart.org/">
+<dc:title>Openclipart</dc:title>
+</cc:Agent>
+</dc:publisher>
+<dc:title>Office Chair</dc:title>
+<dc:date>2012-02-05T08:52:48</dc:date>
+<dc:description>simple office chair clipart</dc:description>
+<dc:source>http://openclipart.org/detail/167707/office-chair-by-ozerkavak</dc:source>
+<dc:creator>
+<cc:Agent>
+<dc:title>ozerkavak</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>chair</rdf:li>
+<rdf:li>clip art</rdf:li>
+<rdf:li>clipart</rdf:li>
+<rdf:li>office</rdf:li>
+</rdf:Bag>
+</dc:subject>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+</svg>
