@@ -6,11 +6,12 @@ This is a basic portfolio website built using HTML, CSS and React.JS
 
 * [General Info](#general-information)
 * [Techstack](#techstack)
+* [Structure](#structure)
 * [Website Overview](#website-overview)
 * [Setup](#setup)
 * [Contact](#contact)
 
-## Gerneral Info
+## General Info
 
 This is static portfolio website built using React. It is a basic description of myself, my projects and my education.
 
@@ -18,6 +19,16 @@ This is static portfolio website built using React. It is a basic description of
 * HTML
 * CSS
 * React.JS
+
+## Structure
+* Navigation Bar
+* Landing Page
+* About
+* Education
+* Projects
+* Skills
+* Social Media Links (Footer)
+* Contact Page
 
 # Website Overview
 
