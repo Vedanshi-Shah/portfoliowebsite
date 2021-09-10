@@ -11,11 +11,11 @@ const ContactMe = () => {
                         <Form action="mailto:vedanshi283@gmail.com" method="post" enctype="text/plain">
                             <FormH1>Talk to me</FormH1>
                             <FormLabel htmlFor='for'>Your Name</FormLabel>
-                            <FormInput name="YourName" type='text' required />
+                            <FormInput name="YourName" type='text' required autoComplete='off'/>
                             <FormLabel htmlFor='for'>Email</FormLabel>
-                            <FormInput name="YourEmail" type='email' required />
+                            <FormInput name="YourEmail" type='email' required autoComplete='off'/>
                             <FormLabel htmlFor='for'>Message</FormLabel>
-                            <FormInput type='textarea' name="YourMsg" required />
+                            <FormInput type='textarea' name="YourMsg" required autoComplete='off'/>
                             <FormButton type='submit'>Send</FormButton>
                         </Form>
                     </FormContent>
