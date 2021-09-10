@@ -9,17 +9,17 @@ const Projects = () => {
             <ProjectsContainer id="projects">
                 <ProjectsH1>My Projects</ProjectsH1>
                 <ProjectsWrapper>
-                    <ProjectsCard>
+                    <ProjectsCard to="/project1" target="_blank">
                         <ProjectsIcon src={Icon1} />
                         <ProjectsH2>Recommendation System</ProjectsH2>
                         <ProjectsP>A Movie Recommendation API built using Flask</ProjectsP>
                     </ProjectsCard>
-                    <ProjectsCard>
+                    <ProjectsCard to="/project2" target="_blank">
                         <ProjectsIcon src={Icon2} />
                         <ProjectsH2>Portfolio Website</ProjectsH2>
                         <ProjectsP>A Pesonal Website built using React Framework</ProjectsP>
                     </ProjectsCard>
-                    <ProjectsCard>
+                    <ProjectsCard to="" target="">
                         <ProjectsIcon src={Icon3} />
                         <ProjectsH2>To-do List</ProjectsH2>
                         <ProjectsP>A to-do list built using HTML, CSS, JS</ProjectsP>

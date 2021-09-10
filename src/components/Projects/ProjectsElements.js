@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import {Link} from 'react-router-dom';
 export const ProjectsContainer=styled.div`
     height: 880px;
     display: flex;
@@ -35,7 +36,8 @@ export const ProjectsWrapper=styled.div`
     }
 `;
 
-export const ProjectsCard=styled.div`
+export const ProjectsCard=styled(Link)`
+    text-decoration: none;
     background: #F7F6F2;
     display: flex;
     flex-direction: column;

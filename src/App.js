@@ -19,7 +19,16 @@ function App() {
     global.window && (global.window.location.href = 'https://drive.google.com/file/d/1NhC5xaddgVyYtz95SjyAXgeS7JAwyoGH/view?usp=sharing');
     return null;
     }}
-/>
+/>    <Route path="/project1" component={() => {
+    global.window && (global.window.location.href = 'https://github.com/Vedanshi-Shah/movie_recommendation_api');
+    return null;
+    }}
+/>    
+<Route path="/project2" component={() => {
+    global.window && (global.window.location.href = 'https://github.com/Vedanshi-Shah/portfoliowebsite');
+    return null;
+    }}
+/>    
       <Route path="/moreskills" component={Skills} exact />
     </Switch>
     </Router>
