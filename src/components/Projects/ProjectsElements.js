@@ -1,6 +1,6 @@
 import styled from "styled-components";
 export const ProjectsContainer=styled.div`
-    height: 850px;
+    height: 880px;
     display: flex;
     flex-direction: column;
     justify-content: top;

@@ -1,13 +1,15 @@
 import React from 'react';
 import './App.css';
-import {BrowserRouter as Router,Switch, Route} from 'react-router-dom';
+import {HashRouter as Router,Switch, Route} from 'react-router-dom';
 import Home from './pages';
 import ContactPage from './pages/contact';
 import AboutPage from './pages/aboutme.js';
 import Skills from './pages/skills';
 // import EducationPage from './pages/education';
+
 function App() {
   return (
+    
     <Router>
     <Switch>
       <Route path="/" component={Home} exact/>
