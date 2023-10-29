@@ -2,8 +2,6 @@
 
 This is a basic portfolio website built using HTML, CSS and React.JS
 
-Website Link: https://vedanshi-shah.github.io/portfoliowebsite/
-
 ## Table of Contents
 
 * [General Info](#general-information)
